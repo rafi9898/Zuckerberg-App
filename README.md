@@ -1,7 +1,7 @@
 # Zuckerberg-App
 
 > An application created in the vue.js framework. The task of the application is to estimate how much and what items we can buy for the current assets of Mark Zuckerberg - Facebook Owner.
-> <img src="https://rpodraza.pl/img/projekty/zuckerApp.png" alt="Zuckerberg App" />
+> <img src="https://rafal-podraza.pl/img/projekty/zuckerApp.png" alt="Zuckerberg App" />
 > <a href="https://rafal-podraza.pl/demo19/#/">DEMO</a>
 
 ## Build Setup
